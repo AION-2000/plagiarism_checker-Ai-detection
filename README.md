@@ -1,5 +1,9 @@
 # Advanced Plagiarism Checker with AI Detection
 
+
+<img width="1395" height="921" alt="image" src="https://github.com/user-attachments/assets/8c9f20a1-f0db-4c32-a83e-9396f2fcc0c1" />
+
+
 A comprehensive plagiarism checker that also detects AI-generated content using linguistic analysis and web search.
 
 ## Features
