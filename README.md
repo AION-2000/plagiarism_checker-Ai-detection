@@ -4,7 +4,7 @@
 <img width="1395" height="921" alt="image" src="https://github.com/user-attachments/assets/8c9f20a1-f0db-4c32-a83e-9396f2fcc0c1" />
 
 
-A comprehensive plagiarism checker that also detects AI-generated content using linguistic analysis and web search.
+A Python desktop application for reviewing text similarity and AI-generated-content indicators, with document highlighting and analysis reports. Results are heuristic signals and should be interpreted as review aids, not definitive proof.
 
 ## Features
 
